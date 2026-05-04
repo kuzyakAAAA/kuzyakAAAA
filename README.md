@@ -27,7 +27,7 @@ To grow into a Junior Systems Analyst role and build a portfolio that connects b
 <div align="center">
 <pre>
 ╔════════════════════════════╗
-║   HELLO! MY NAME IS ARTEM! ║
+║     ↓ Link to my TG ↓      ║
 ╚════════════════════════════╝
 </pre>
 
