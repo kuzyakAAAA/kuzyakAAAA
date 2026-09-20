@@ -31,5 +31,5 @@ To grow into a Junior Systems Analyst role and build a portfolio that connects b
 ╚════════════════════════════╝
 </pre>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kuzyakAHA)
 </div>
