@@ -18,6 +18,8 @@ Currently, I'm building a portfolio of projects focused on data cleaning, explor
 
 To grow into a Junior Data Analyst role and build a portfolio that turns raw data into insights that support business decisions.
 
+
+
 <div align="center">
 <pre>
 ╔════════════════════════════╗
